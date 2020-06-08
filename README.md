@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
-Harry: CLICK ON THIS LINK TO GO TO HOME PAGE:
-
+Harry: CLICK ON THIS LINK TO GO TO HOME PAGE:https://mwade0118.github.io/website/home/
+ 
 You can use the [editor on GitHub](https://github.com/mwade0118/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
