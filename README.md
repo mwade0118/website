@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-Harry: CLICK ON THIS LINK TO GO TO HOME PAGE:https://mwade0118.github.io/website/home/
+Harry: CLICK ON THIS LINK TO GO TO HOME PAGE: <a href="https://mwade0118.github.io/website/home/"> HOME </a>
  
 You can use the [editor on GitHub](https://github.com/mwade0118/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
